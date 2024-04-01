@@ -13,7 +13,7 @@ exports.getTodo = async(req,res) => {
             .json({
                 success:true,
                 data:todos,
-                message:"Entire Todo Data is fetched",
+                message:"Entire Drama  Data is fetched",
             });
     }
     catch(err) {

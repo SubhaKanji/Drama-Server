@@ -11,7 +11,7 @@ exports.deleteTodo = async(req,res) => {
 
         res.json({
             success:true,
-            message:"Todo DELETED",
+            message:"Drama DELETED",
         })
        
     }
